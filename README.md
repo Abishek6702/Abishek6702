@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Abishek 👋
 
-<!--
-**Abishek6702/Abishek6702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer experienced in building scalable web applications using React.js, Node.js, Express.js, MongoDB, and AWS.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+* MongoDB
+
+### Cloud & Tools
+
+* AWS EC2
+* Git
+* GitHub
+* Postman
+* Socket.io
+
+## Experience
+
+Full Stack Developer at QuantumPulse Technologies Pvt Ltd
+
+## Featured Projects
+
+* Job Portal (Gemini AI + Socket.io)
+* HRMS
+* Admission Portal
+* Face ID Authentication
+
+## Contact
+
+* LinkedIn: http://linkedin.com/in/abishek-k-68a9a3198
+* Portfolio: https://abishek6702.github.io/Abishek/
