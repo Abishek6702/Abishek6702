@@ -103,7 +103,7 @@ Reusable npm package for automated MongoDB backups, Excel exports, scheduling, r
 
 **Node.js · MongoDB · CLI · ExcelJS**
 
-🔗 [View on GitHub]([https://github.com/Abishek6702](https://www.npmjs.com/package/mongodb-backup-service))
+🔗 [Live Website](https://www.npmjs.com/package/mongodb-backup-service)
 
 </td>
 </tr>
