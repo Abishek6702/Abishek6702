@@ -103,7 +103,7 @@ Reusable npm package for automated MongoDB backups, Excel exports, scheduling, r
 
 **Node.js · MongoDB · CLI · ExcelJS**
 
-🔗 [View on GitHub](https://github.com/Abishek6702)
+🔗 [View on GitHub]([https://github.com/Abishek6702](https://www.npmjs.com/package/mongodb-backup-service))
 
 </td>
 </tr>
@@ -117,7 +117,7 @@ Full-stack recruitment platform with job management, applications, authenticatio
 
 **React · Node.js · MongoDB · Socket.IO**
 
-🔗 [View on GitHub](https://github.com/Abishek6702)
+🔗 [View on GitHub](https://job-client-seven.vercel.app/)
 
 </td>
 
@@ -129,7 +129,7 @@ Admission management platform with application workflows, document handling, rol
 
 **React · Node.js · MongoDB · Socket.IO**
 
-🔗 [View on GitHub](https://github.com/Abishek6702)
+🔗 [View on GitHub](https://srieshwaradmission.com)
 
 </td>
 </tr>
@@ -143,7 +143,7 @@ Enterprise HR platform covering employee management, attendance, leave, payroll,
 
 **React · Node.js · MongoDB · MSSQL**
 
-🔗 [View on GitHub](https://github.com/Abishek6702)
+🔗 [View on GitHub](https://srieshwarems.com)
 
 </td>
 
